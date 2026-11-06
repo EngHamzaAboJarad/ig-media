@@ -61,9 +61,23 @@ async function container(userId, item) {
   return call('POST', `/${userId}/media`, { image_url: media(p), caption: item.caption || '' });
 }
 
-const info = await call('GET', `/${IG_USER_ID}`, { fields: 'username' });
-const me = { user_id: IG_USER_ID, username: info.username };
-console.log(`Connected as @${me.username} (${me.user_id}) via ${HOST}`);
+function writeStatus(st) {
+  let old = {};
+  try { old = JSON.parse(fs.readFileSync('status.json', 'utf8')); } catch {}
+  if (old.ok !== st.ok || old.detail !== st.detail) {
+    fs.writeFileSync('status.json', JSON.stringify({ ...st, checked_at: new Date().toISOString() }, null, 2) + '\n');
+  }
+}
+let me;
+try {
+  const info = await call('GET', `/${IG_USER_ID}`, { fields: 'username' });
+  me = { user_id: IG_USER_ID, username: info.username };
+  console.log(`Connected as @${me.username} (${me.user_id}) via ${HOST}`);
+  writeStatus({ ok: true, detail: `@${me.username} via ${HOST}` });
+} catch (e) {
+  writeStatus({ ok: false, detail: String(e.message).slice(0, 400) });
+  throw e;
+}
 if (process.env.DRY_RUN === '1') process.exit(0);
 
 const data = JSON.parse(fs.readFileSync(FILE, 'utf8'));
