@@ -2,8 +2,11 @@
 // Runs in GitHub Actions. Env: IG_TOKEN (secret), DRY_RUN=1 to only check the token.
 import fs from 'node:fs';
 
-const API = 'https://graph.instagram.com/' + (process.env.IG_API_VERSION || 'v23.0');
-const TOKEN = process.env.IG_TOKEN;
+const TOKEN = (process.env.IG_TOKEN || '').trim();
+// Instagram-login tokens start with "IG"; Facebook/business (system user) tokens use graph.facebook.com
+const HOST = TOKEN.startsWith('IG') ? 'https://graph.instagram.com/' : 'https://graph.facebook.com/';
+const API = HOST + (process.env.IG_API_VERSION || 'v23.0');
+const IG_USER_ID = process.env.IG_USER_ID || '17841452611939528';
 const RAW = `https://raw.githubusercontent.com/${process.env.GITHUB_REPOSITORY}/main/`;
 const FILE = 'schedule.json';
 
@@ -58,8 +61,9 @@ async function container(userId, item) {
   return call('POST', `/${userId}/media`, { image_url: media(p), caption: item.caption || '' });
 }
 
-const me = await call('GET', '/me', { fields: 'user_id,username' });
-console.log(`Connected as @${me.username} (${me.user_id})`);
+const info = await call('GET', `/${IG_USER_ID}`, { fields: 'username' });
+const me = { user_id: IG_USER_ID, username: info.username };
+console.log(`Connected as @${me.username} (${me.user_id}) via ${HOST}`);
 if (process.env.DRY_RUN === '1') process.exit(0);
 
 const data = JSON.parse(fs.readFileSync(FILE, 'utf8'));
