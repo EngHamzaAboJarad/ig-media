@@ -98,6 +98,19 @@
       "published_at": "2026-11-10T10:53:39.029Z"
     },
     {
+      "id": "flutter-pro-day18a",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day18a-1.jpg",
+        "flutter-pro/day18a-2.jpg",
+        "flutter-pro/day18a-3.jpg",
+        "flutter-pro/day18a-4.jpg"
+      ],
+      "caption": "ليش تكتب Tests؟ عشان تنام مرتاح 😴\n\n🔺 هرم الاختبارات: كثير Unit، شوية Widget، قليل Integration\n⚡ Unit: سريع وبيختبر المنطق لحاله\n📱 Widget: بيختبر الواجهة بدون جهاز\n🧪 Integration: التطبيق كامل على جهاز حقيقي\n\n💬 بتكتب tests بمشاريعك ولا لسا؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-10T20:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
       "id": "case006-story",
       "type": "story",
       "media": [
@@ -114,6 +127,19 @@
       ],
       "caption": "القضية 007/1000 · [1,2,3] == [1,2,3] ؟ 🤨\n\nقائمتين نفس العناصر... ودارت بتقول مش متساويات!\nشو بيطبع الكود؟ وليش؟ 👇\n\n🕵️ خمّن الحل بالكومنت، والحل الليلة بالستوري وبالهايلايت \"1000 مشكلة\"\n📌 مستوى: مبتدئ ★☆☆\n\n#سلسلة_الألف_مشكلة #برمجة #مبرمجين #Dart #تعلم_البرمجة",
       "at": "2026-11-11T09:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "flutter-pro-day18b",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day18b-1.jpg",
+        "flutter-pro/day18b-2.jpg",
+        "flutter-pro/day18b-3.jpg",
+        "flutter-pro/day18b-4.jpg"
+      ],
+      "caption": "أول Widget Test إلك، خطوة بخطوة 🧪\n\n🏗️ pumpWidget: بيبني الشاشة بالذاكرة\n👆 tap: بيضغط زي المستخدم\n🔄 pump: بيرسم الفريم الجديد\n✅ expect: بتتأكد من النتيجة\n\n💬 جرّبها على تطبيق العدّاد الافتراضي وقلّي إذا نجحت\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-11T20:30:00+02:00",
       "status": "scheduled"
     },
     {
@@ -136,6 +162,19 @@
       "status": "scheduled"
     },
     {
+      "id": "flutter-pro-day19",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day19-1.jpg",
+        "flutter-pro/day19-2.jpg",
+        "flutter-pro/day19-3.jpg",
+        "flutter-pro/day19-4.jpg"
+      ],
+      "caption": "اختبر تطبيقك كامل، زي ما المستخدم بيستعمله 📱\n\n🧭 Integration Test: سيناريو من أوله لآخره\n📲 بيشتغل على جهاز أو محاكي حقيقي\n🎯 حطه للمسارات الحرجة: الدخول والدفع\n🧱 استخدم Keys و pumpAndSettle عشان يضل ثابت\n\n💬 شو أهم سيناريو بتطبيقك لازم ينختبر؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-12T20:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
       "id": "case008-story",
       "type": "story",
       "media": [
@@ -152,6 +191,19 @@
       ],
       "caption": "القضية 009/1000 · localhost مش هو اللي بتفكر فيه 📱\n\nالسيرفر شغال على جهازي... والتطبيق ما بيوصله!\nالتطبيق على المحاكي بيطلب http://localhost:3000 😵 ليش؟\n\n🕵️ خمّن الحل بالكومنت، والحل الليلة بالستوري وبالهايلايت \"1000 مشكلة\"\n📌 مستوى: مبتدئ ★☆☆\n\n#سلسلة_الألف_مشكلة #برمجة #مبرمجين #Flutter #تعلم_البرمجة",
       "at": "2026-11-13T09:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "flutter-pro-day20",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day20-1.jpg",
+        "flutter-pro/day20-2.jpg",
+        "flutter-pro/day20-3.jpg",
+        "flutter-pro/day20-4.jpg"
+      ],
+      "caption": "كيف تختبر كودك بدون نت ولا سيرفر؟ 🎭\n\n🎭 Mock: نسخة مزيّفة بتتحكم بردّها\n⚡ أسرع وأثبت من السيرفر الحقيقي\n💥 بتختبر الأخطاء: 500، timeout، بيانات فاضية\n🔌 وهون بتبيّن قيمة الـ Dependency Injection\n\n💬 بتستخدم mocktail ولا mockito؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-13T20:30:00+02:00",
       "status": "scheduled"
     },
     {
@@ -174,6 +226,19 @@
       "status": "scheduled"
     },
     {
+      "id": "flutter-pro-day21",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day21-1.jpg",
+        "flutter-pro/day21-2.jpg",
+        "flutter-pro/day21-3.jpg",
+        "flutter-pro/day21-4.jpg"
+      ],
+      "caption": "🏆 مشروع الأسبوع 3: سرّع واختبر تطبيقك\n\n📊 قيس بالـ DevTools ولاقي الفريمات الحمرا\n🛠️ صلّح: const، تقسيم الـ widgets، Isolate.run\n🧪 اختبر: 5 Unit + 2 Widget + 1 Integration\n📈 سجّل الأرقام قبل وبعد\n\n💬 شارك رابط مشروعك بالكومنتات\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-14T20:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
       "id": "case010-story",
       "type": "story",
       "media": [
@@ -190,6 +255,19 @@
       ],
       "caption": "القضية 011/1000 · سؤال مقابلات كلاسيكي 🎯\n\nأول حرف ما بيتكرر بكلمة \"swiss\"؟\nالجواب w. بس كيف تلاقيه بمرورين بس على النص؟\n\n🕵️ خمّن الحل بالكومنت، والحل الليلة بالستوري وبالهايلايت \"1000 مشكلة\"\n📌 مستوى: متوسط ★★☆\n\n#سلسلة_الألف_مشكلة #برمجة #مبرمجين #Logic #تعلم_البرمجة",
       "at": "2026-11-15T09:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "flutter-pro-day22",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day22-1.jpg",
+        "flutter-pro/day22-2.jpg",
+        "flutter-pro/day22-3.jpg",
+        "flutter-pro/day22-4.jpg"
+      ],
+      "caption": "تطبيقك على Google Play، خطوة بخطوة 🤖\n\n🔑 مفتاح توقيع خاص فيك، واحفظه منيح\n📦 flutter build appbundle وارفع .aab\n👥 الحسابات الشخصية الجديدة: اختبار مغلق مع 12 مختبر لمدة 14 يوم\n💳 رسوم الحساب 25$ مرة وحدة\n\n💬 نشرت تطبيق على Google Play قبل؟ شو أصعب خطوة واجهتك؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-15T20:30:00+02:00",
       "status": "scheduled"
     },
     {
@@ -212,6 +290,19 @@
       "status": "scheduled"
     },
     {
+      "id": "flutter-pro-day23",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day23-1.jpg",
+        "flutter-pro/day23-2.jpg",
+        "flutter-pro/day23-3.jpg",
+        "flutter-pro/day23-4.jpg"
+      ],
+      "caption": "تطبيقك على App Store: شو المختلف عن أندرويد؟ 🍎\n\n💻 بتحتاج Mac، أو خدمة CI بتبني iOS عنك\n💳 Apple Developer: 99$ بالسنة\n📦 flutter build ipa وارفع بـ Transporter\n🧪 جرّب على TestFlight قبل المراجعة\n\n💬 شو أكثر إشي بيخوّفك من مراجعة Apple؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-16T20:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
       "id": "case012-story",
       "type": "story",
       "media": [
@@ -231,12 +322,38 @@
       "status": "scheduled"
     },
     {
+      "id": "flutter-pro-day24a",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day24a-1.jpg",
+        "flutter-pro/day24a-2.jpg",
+        "flutter-pro/day24a-3.jpg",
+        "flutter-pro/day24a-4.jpg"
+      ],
+      "caption": "CI/CD: خلّي الآلة تشتغل عنك 🤖\n\n🔁 CI: كل push بيتختبر لحاله\n🚀 CD: البناء والنشر تلقائياً\n🛑 أي خطوة بتفشل بتوقف الكل\n🧱 ابدأ بـ analyze + test، وبعدين كبّر\n\n💬 بتستخدم CI بمشاريعك؟ وشو الأداة؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-17T20:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
       "id": "case013-story",
       "type": "story",
       "media": [
         "1000-problems/case013-story.jpg"
       ],
       "at": "2026-11-17T21:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "flutter-pro-day24b",
+      "type": "carousel",
+      "media": [
+        "flutter-pro/day24b-1.jpg",
+        "flutter-pro/day24b-2.jpg",
+        "flutter-pro/day24b-3.jpg",
+        "flutter-pro/day24b-4.jpg"
+      ],
+      "caption": "أول Pipeline إلك بـ GitHub Actions ⚙️\n\n📁 ملف واحد بـ .github/workflows/\n🔁 بيشتغل مع كل push و pull request\n✅ pub get ← analyze ← test\n💸 مجاني للـ repos العامة\n\n💬 انسخ الملف، جرّبه، وقلّي إذا طلع أخضر ✅\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
+      "at": "2026-11-18T20:30:00+02:00",
       "status": "scheduled"
     }
   ]
