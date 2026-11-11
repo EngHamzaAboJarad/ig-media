@@ -146,7 +146,9 @@
       ],
       "caption": "أول Widget Test إلك، خطوة بخطوة 🧪\n\n🏗️ pumpWidget: بيبني الشاشة بالذاكرة\n👆 tap: بيضغط زي المستخدم\n🔄 pump: بيرسم الفريم الجديد\n✅ expect: بتتأكد من النتيجة\n\n💬 جرّبها على تطبيق العدّاد الافتراضي وقلّي إذا نجحت\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
       "at": "2026-11-11T20:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18156597151530422",
+      "published_at": "2026-11-11T21:36:28.493Z"
     },
     {
       "id": "case007-story",
@@ -155,7 +157,9 @@
         "1000-problems/case007-story.jpg"
       ],
       "at": "2026-11-11T21:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "17963600663998256",
+      "published_at": "2026-11-11T21:36:41.337Z"
     },
     {
       "id": "case008-post",
