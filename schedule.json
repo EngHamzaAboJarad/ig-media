@@ -166,6 +166,20 @@
       "status": "scheduled"
     },
     {
+      "id": "special-cors",
+      "type": "carousel",
+      "media": [
+        "specials/cors-1.jpg",
+        "specials/cors-2.jpg",
+        "specials/cors-3.jpg",
+        "specials/cors-4.jpg",
+        "specials/cors-5.jpg"
+      ],
+      "caption": "CORS: ليش المتصفح بيمنع طلبك؟ 🚫🌐\n\nالخطأ اللي كل مطوّر واجهه، خلّينا نفهمه مرة وللأبد:\n🧭 Origin = بروتوكول + دومين + بورت، وأي اختلاف بيخليه origin ثاني\n🛂 Preflight: المتصفح بيبعت OPTIONS يستأذن قبل PUT و JSON و Authorization\n🛠️ الحل على السيرفر، مش بالفرونت\n📱 Flutter Web بيتأثر، تطبيقات الموبايل لا\n⚠️ ولا تحط * إذا عندك cookies أو بيانات مستخدمين\n\n💬 شو أغرب خطأ CORS واجهك؟\n📌 احفظه وابعته لصاحبك العالق بـ CORS 😅\n\n#شهر_البرمجة #برمجة #مبرمجين #تطوير_ويب #CORS #flutter",
+      "at": "2026-11-12T14:00:00+02:00",
+      "status": "scheduled"
+    },
+    {
       "id": "flutter-pro-day19",
       "type": "carousel",
       "media": [
