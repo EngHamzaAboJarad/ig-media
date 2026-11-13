@@ -249,7 +249,9 @@
         "1000-problems/case009-story.jpg"
       ],
       "at": "2026-11-13T21:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18148251097579401",
+      "published_at": "2026-11-13T23:56:52.215Z"
     },
     {
       "id": "case010-post",
