@@ -276,7 +276,9 @@
       ],
       "caption": "🏆 مشروع الأسبوع 3: سرّع واختبر تطبيقك\n\n📊 قيس بالـ DevTools ولاقي الفريمات الحمرا\n🛠️ صلّح: const، تقسيم الـ widgets، Isolate.run\n🧪 اختبر: 5 Unit + 2 Widget + 1 Integration\n📈 سجّل الأرقام قبل وبعد\n\n💬 شارك رابط مشروعك بالكومنتات\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
       "at": "2026-11-14T20:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18095598254682564",
+      "published_at": "2026-11-14T22:42:55.378Z"
     },
     {
       "id": "case010-story",
@@ -285,7 +287,9 @@
         "1000-problems/case010-story.jpg"
       ],
       "at": "2026-11-14T21:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18130832194878671",
+      "published_at": "2026-11-14T22:43:24.011Z"
     },
     {
       "id": "case011-post",
