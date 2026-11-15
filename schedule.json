@@ -314,7 +314,9 @@
       ],
       "caption": "تطبيقك على Google Play، خطوة بخطوة 🤖\n\n🔑 مفتاح توقيع خاص فيك، واحفظه منيح\n📦 flutter build appbundle وارفع .aab\n👥 الحسابات الشخصية الجديدة: اختبار مغلق مع 12 مختبر لمدة 14 يوم\n💳 رسوم الحساب 25$ مرة وحدة\n\n💬 نشرت تطبيق على Google Play قبل؟ شو أصعب خطوة واجهتك؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
       "at": "2026-11-15T20:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18161056159510715",
+      "published_at": "2026-11-15T21:17:23.930Z"
     },
     {
       "id": "case011-story",
@@ -323,7 +325,9 @@
         "1000-problems/case011-story.jpg"
       ],
       "at": "2026-11-15T21:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18144621268610884",
+      "published_at": "2026-11-15T21:17:50.864Z"
     },
     {
       "id": "case012-post",
