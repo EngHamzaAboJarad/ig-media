@@ -416,7 +416,9 @@
       ],
       "caption": "أول Pipeline إلك بـ GitHub Actions ⚙️\n\n📁 ملف واحد بـ .github/workflows/\n🔁 بيشتغل مع كل push و pull request\n✅ pub get ← analyze ← test\n💸 مجاني للـ repos العامة\n\n💬 انسخ الملف، جرّبه، وقلّي إذا طلع أخضر ✅\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
       "at": "2026-11-18T20:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "17943123837391500",
+      "published_at": "2026-11-19T00:32:41.271Z"
     }
   ]
 }
