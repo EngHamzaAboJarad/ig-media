@@ -630,6 +630,63 @@
       ],
       "at": "2026-11-28T21:30:00+02:00",
       "status": "scheduled"
+    },
+    {
+      "id": "case021-post",
+      "type": "image",
+      "media": [
+        "1000-problems/case021-post.jpg"
+      ],
+      "caption": "القضية 021/1000 · Monolith ولا Microservices؟ 🏗️\n\nفريق 4 مطورين و2000 مستخدم باليوم، والكل بيقولك قسّم!\nمتى بيصير التقسيم قرار صح؟\n\n🕵️ خمّن الحل بالكومنت، والحل الليلة بالستوري وبالهايلايت \"1000 مشكلة\"\n📌 مستوى: متقدم ★★★\n\n#سلسلة_الألف_مشكلة #برمجة #مبرمجين #Architecture #SoftwareEngineering #تعلم_البرمجة",
+      "at": "2026-11-29T09:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "case021-story",
+      "type": "story",
+      "media": [
+        "1000-problems/case021-story.jpg"
+      ],
+      "at": "2026-11-29T21:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "case022-post",
+      "type": "image",
+      "media": [
+        "1000-problems/case022-post.jpg"
+      ],
+      "caption": "القضية 022/1000 · شو بيطبع هالكود؟ 🌀\n\nsetTimeout بـ 0 وPromise وconsole.log... ما هو ترتيب الأرقام؟\nخمّن قبل ما تشغّل!\n\n🕵️ خمّن الحل بالكومنت، والحل الليلة بالستوري وبالهايلايت \"1000 مشكلة\"\n📌 مستوى: متوسط ★★☆\n\n#سلسلة_الألف_مشكلة #برمجة #مبرمجين #JavaScript #EventLoop #تعلم_البرمجة",
+      "at": "2026-11-30T09:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "case022-story",
+      "type": "story",
+      "media": [
+        "1000-problems/case022-story.jpg"
+      ],
+      "at": "2026-11-30T21:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "case023-post",
+      "type": "image",
+      "media": [
+        "1000-problems/case023-post.jpg"
+      ],
+      "caption": "القضية 023/1000 · زوجي ولا فردي؟ 🔢\n\nرقم n، كيف بتعرف إذا زوجي أو فردي بسطر واحد وبدون نص؟\n\n🕵️ خمّن الحل بالكومنت، والحل الليلة بالستوري وبالهايلايت \"1000 مشكلة\"\n📌 مستوى: مبتدئ ★☆☆\n\n#سلسلة_الألف_مشكلة #برمجة #مبرمجين #Logic #Algorithms #تعلم_البرمجة",
+      "at": "2026-12-01T09:30:00+02:00",
+      "status": "scheduled"
+    },
+    {
+      "id": "case023-story",
+      "type": "story",
+      "media": [
+        "1000-problems/case023-story.jpg"
+      ],
+      "at": "2026-12-01T21:30:00+02:00",
+      "status": "scheduled"
     }
   ]
 }
