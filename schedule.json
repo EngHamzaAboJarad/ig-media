@@ -443,7 +443,9 @@
       ],
       "caption": "أول Package إلك على pub.dev 📦\n\n📄 pubspec + LICENSE + README = الأساس\n🧪 flutter pub publish --dry-run قبل أي نشر\n⚠️ الإصدار المنشور ما بينمسح، بس ممكن تسحبه خلال 7 أيام\n⭐ example وتوثيق /// بيرفعوا تقييم الباكج\n\n💬 شو أول Package بدك تنشره؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
       "at": "2026-11-22T20:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18129397898479499",
+      "published_at": "2026-11-22T23:21:53.226Z"
     },
     {
       "id": "case014-story",
@@ -452,7 +454,9 @@
         "1000-problems/case014-story.jpg"
       ],
       "at": "2026-11-22T21:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18139156417710766",
+      "published_at": "2026-11-22T23:22:20.337Z"
     },
     {
       "id": "case015-post",
