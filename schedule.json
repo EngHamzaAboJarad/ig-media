@@ -481,7 +481,9 @@
       ],
       "caption": "كيف يبدو مشروع فريق حقيقي؟ 👥\n\n📁 feature-first: كل ميزة بمجلدها (data / domain / presentation)\n🔧 lint موحّد + CI على كل PR\n📖 README يشغّلك بـ 3 أوامر\n\n💬 شو الهيكلة اللي بتستخدمها بمشاريعك؟\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
       "at": "2026-11-23T20:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "17899764948414031",
+      "published_at": "2026-11-24T01:40:46.967Z"
     },
     {
       "id": "case015-story",
@@ -490,7 +492,9 @@
         "1000-problems/case015-story.jpg"
       ],
       "at": "2026-11-23T21:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18123238292517632",
+      "published_at": "2026-11-24T01:41:14.698Z"
     },
     {
       "id": "case016-post",
