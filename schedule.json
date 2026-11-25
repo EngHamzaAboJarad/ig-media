@@ -557,7 +557,9 @@
       ],
       "caption": "بروفايل GitHub اللي بيلفت الانتباه 🐙\n\n📌 Profile README (ريبو بنفس اسم حسابك)\n📍 ثبّت أفضل 6 مشاريع\n📖 README بلقطة شاشة وطريقة تشغيل\n🔒 بدون .env أو مفاتيح بالكود\n\n💬 حط رابط بروفايلك بالتعليقات 👇\n📌 احفظ البوست، رح ترجعله\n\n#شهر_البرمجة #flutter #flutterdev #برمجة #تطوير_تطبيقات #مبرمجين",
       "at": "2026-11-25T20:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "18085056209718637",
+      "published_at": "2026-11-25T23:30:38.150Z"
     },
     {
       "id": "case017-story",
@@ -566,7 +568,9 @@
         "1000-problems/case017-story.jpg"
       ],
       "at": "2026-11-25T21:30:00+02:00",
-      "status": "scheduled"
+      "status": "published",
+      "media_id": "17968863875980098",
+      "published_at": "2026-11-25T23:31:05.207Z"
     },
     {
       "id": "case018-post",
